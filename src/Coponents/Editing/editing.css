@@ -1,0 +1,9 @@
+.editetask {
+    height: 40px ;
+    border-radius: 10px;
+    width: 50px;
+
+    cursor: pointer;
+    margin-left: 20px;
+    border-style: solid;
+}
